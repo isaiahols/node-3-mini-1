@@ -2,7 +2,7 @@
   "name": "node-chat",
   "version": "1.0.0",
   "description": "Node 1 - Afternoon",
-  "main": "index.js",
+  "main": "server/index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
